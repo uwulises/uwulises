@@ -8,14 +8,15 @@ Many thanks to all members of [Beauchef-Proyecta](https://www.google.com), [Beau
 - [My Little Factory, your first automated fabric](https://beauchef-proyecta.github.io/my-little-factory/)
 - [Sh\*tty Robots (hands-on during pandemic)](https://beauchef-proyecta.github.io/shitty-robots/)
 - Robotic Manipulators (ME6030)
-- [Battlebots](https://github.com/Battlebots-UChile)
+- [Battlebots](https://github.com/Battlebots-UChile) remake from scratch
+- ME5120 Design of Mechanical Systems remake from scratch
 
 ## Research
 
 - [Mental and Emotional Health Care for COVID-19 Patients: Employing Pudu, a Telepresence Robot](https://ieeexplore.ieee.org/document/9335026)
 
 ## Collabs
-Also i've made some collab with another Universities and Gubernamental Institutions, improving fast prototyping and 
+Also i've made some collabs with another Universities and Gubernamental Institutions, improving fast prototyping and 
 
 - [Design Lab](https://designlab.uai.cl/)+[INIA](https://www.inia.cl/)
 - [Design Lab](https://designlab.uai.cl/), integrating new huge extruder Massive Dimension with KUKA
