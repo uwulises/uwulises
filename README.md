@@ -3,7 +3,7 @@
 Apasionado por la robótica y mecatrónica, me encuentro desarrollando nuevas instancias de aprendizaje (hands-on) en la Universidad.
 Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden explorar aplicaciones de diseño, fabricación, electrónica, programación y uso de herramientas de visión computacional.
 
-## Creating new courses
+## Impact on university courses
 
 [Beauchef-Proyecta](https://www.google.com), [Beauchef Robotics Challenge (via COMROBOT community)](https://github.com/BeauchefRoboticsChallenge), [Mechanical Engineering Department](https://dimec.uchile.cl/app/)
 
@@ -14,14 +14,14 @@ Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden 
 - ME5120 Design of Mechanical Systems remake from scratch
 - ME5150 Robotics remake from scratch
 
-## Publications
+## Publication
 
 - [Mental and Emotional Health Care for COVID-19 Patients: Employing Pudu, a Telepresence Robot](https://ieeexplore.ieee.org/document/9335026)
 
 ## Collabs
 Also i've made some collabs with another Universities and Gubernamental Institutions, improving fast prototyping and digital fabrication.
 
-- [Design Lab](https://designlab.uai.cl/)+[INIA](https://www.inia.cl/)
+- [Design Lab](https://designlab.uai.cl/)+[INIA](https://www.inia.cl/) developing agricultural technologies
 - [Design Lab](https://designlab.uai.cl/), integrating new huge extruder Massive Dimension with KUKA
 
 ## Working Experience
