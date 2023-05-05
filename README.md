@@ -5,14 +5,14 @@ Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden 
 
 ## Impact on university courses
 
-[Beauchef-Proyecta](https://www.google.com), [Beauchef Robotics Challenge (via COMROBOT community)](https://github.com/BeauchefRoboticsChallenge), [Mechanical Engineering Department](https://dimec.uchile.cl/app/)
+[Beauchef-Proyecta](https://beauchefproyecta.cl/), [Beauchef Robotics Challenge (via COMROBOT community)](https://github.com/BeauchefRoboticsChallenge), [Mechanical Engineering Department](https://dimec.uchile.cl/app/)
 
 - CD2201 [My Little Factory, your first automated fabric](https://beauchef-proyecta.github.io/my-little-factory/)
 - CD2201 [Sh\*tty Robots (hands-on during pandemic)](https://beauchef-proyecta.github.io/shitty-robots/)
 - ME6030 Robotic Manipulators
 - CD2201 [Battlebots](https://github.com/Battlebots-UChile) remake from scratch
-- ME5120 Design of Mechanical Systems remake from scratch
-- ME5150 Robotics remake from scratch
+- ME5120 Design of Mechanical Systems, remake from scratch
+- ME5150 Robotics, remake from scratch
 
 ## Publication
 
