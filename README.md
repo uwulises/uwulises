@@ -1,4 +1,4 @@
-### Hi there 🐢 I'm Ulises, M.E. Student at Universidad de Chile
+### Hi there 🐢 I'm Ulises, Mechanical Engineer & teacher, Univeridad de Chile.
 
 Apasionado por la robótica y mecatrónica, me encuentro desarrollando nuevas instancias de aprendizaje (hands-on) en la Universidad.
 Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden explorar aplicaciones de diseño, fabricación, electrónica, programación y uso de herramientas de visión computacional.
@@ -7,12 +7,13 @@ Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden 
 
 [Beauchef-Proyecta](https://beauchefproyecta.cl/), [Beauchef Robotics Challenge (via COMROBOT community)](https://github.com/BeauchefRoboticsChallenge), [Mechanical Engineering Department](https://dimec.uchile.cl/app/)
 
+- ME5120 Design of Mechanical Systems, remake from scratch
+- ME6030 Robotic Manipulators
+- ME5150 Robotics, remake from scratch
 - CD2201 [My Little Factory, your first automated fabric](https://beauchef-proyecta.github.io/my-little-factory/)
 - CD2201 [Sh\*tty Robots (hands-on during pandemic)](https://beauchef-proyecta.github.io/shitty-robots/)
-- ME6030 Robotic Manipulators
 - CD2201 [Battlebots](https://github.com/Battlebots-UChile) remake from scratch
-- ME5120 Design of Mechanical Systems, remake from scratch
-- ME5150 Robotics, remake from scratch
+
 
 ## Publication
 
@@ -26,7 +27,7 @@ Also i've made some collabs with another Universities and Gubernamental Institut
 
 ## Working Experience
 
-- [Mindlabs](https://www.linkedin.com/company/mindlabs-spa/about/) (Since 2020) as a developer & mechanical/mechatronic designer, integrating technologies over DJI drones.
+- [Mindlabs](https://www.linkedin.com/company/mindlabs-spa/about/) (2020-2024) as a developer & mechanical/mechatronic designer, integrating technologies over DJI drones.
 
 - Freelancer engineer (since 2020). Topics: Design, rapid prototyping, mechatronics, robotics.
 
