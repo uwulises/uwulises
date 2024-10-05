@@ -10,6 +10,7 @@ Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden 
 - ME5120 Design of Mechanical Systems, remake from scratch
 - ME6030 Robotic Manipulators
 - ME5150 Robotics, remake from scratch
+- ME3250 Kinematics and Dynamics of Mechanisms
 - CD2201 [My Little Factory, your first automated fabric](https://beauchef-proyecta.github.io/my-little-factory/)
 - CD2201 [Sh\*tty Robots (hands-on during pandemic)](https://beauchef-proyecta.github.io/shitty-robots/)
 - CD2201 [Battlebots](https://github.com/Battlebots-UChile) remake from scratch
