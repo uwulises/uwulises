@@ -1,4 +1,4 @@
-### Hi there 🐢 I'm Ulises, Mechanical Engineer & teacher, Universidad de Chile.
+### Hi there 🐢 I'm Ulises, Mechanical Engineer & instructor @ Universidad de Chile.
 
 Apasionado por la robótica y mecatrónica, me encuentro desarrollando nuevas instancias de aprendizaje (hands-on) en la Universidad.
 Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden explorar aplicaciones de diseño, fabricación, electrónica, programación y uso de herramientas de visión computacional.
