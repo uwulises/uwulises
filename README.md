@@ -28,6 +28,7 @@ Also i've made some collabs with another Universities and Gubernamental Institut
 
 ## Working Experience
 
+- [DEX](https://lama3d.cl/) (2025) as a Robotics Engineer
 - [Mindlabs](https://www.linkedin.com/company/mindlabs-spa/about/) (2020-2024) as a developer & mechanical/mechatronic designer, integrating technologies over DJI drones.
 
 - Freelancer engineer (since 2020). Topics: Design, rapid prototyping, mechatronics, robotics.
