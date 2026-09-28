@@ -3,10 +3,11 @@
 Apasionado por la robótica y mecatrónica, me encuentro desarrollando nuevas instancias de aprendizaje (hands-on) en la Universidad.
 Junto a un gran equipo hemos creado nuevos cursos para estudiantes donde pueden explorar aplicaciones de diseño, fabricación, electrónica, programación y uso de herramientas de visión computacional.
 
-## Impact on university courses
+## Lectures
 
-[Beauchef-Proyecta](https://beauchefproyecta.cl/), [Beauchef Robotics Challenge (via COMROBOT community)](https://github.com/BeauchefRoboticsChallenge), [Mechanical Engineering Department](https://dimec.uchile.cl/app/)
+[Mechanical Engineering Department](https://dimec.uchile.cl/app/) & [DesignLab UAi](https://www.uai.cl/designlab)
 
+- Diseño y construcción de interfaces
 - ME5120 Design of Mechanical Systems, remake from scratch
 - ME6030 Robotic Manipulators
 - ME5150 Robotics, remake from scratch
